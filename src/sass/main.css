@@ -1,0 +1,94 @@
+:root {
+  --primary-font-family: 'Montserrat', sans-serif;
+  --basic-font-size-mobile: 12px;
+  --basic-font-size-tablet: 14px;
+  --basic-font-size-desktop: 18px;
+  --text-letter-spacing: 0.08em;
+  --headers-letter-spacing: 0.03em;
+  --button-letter-spacing: 0.14em;
+  --body-background-color: #ffffff;
+  --accent-color: #FF6B09;
+  --light-text-color: #B9B9B9;
+  --dark-text-color: #111518;
+  --dark-decorative-color: #3D3D3D;
+  --vk-icon-color: #436EAB;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+img, picture {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  background-color: var(--body-background-color);
+  font-family: var(--primary-font-family);
+  letter-spacing: var(--text-letter-spacing);
+}
+
+.container {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+@media screen and (min-width: 480px) {
+  .container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 310px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 734px;
+  }
+}
+
+@media screen and (min-width: 1366px) {
+  .container {
+    width: 1678px;
+  }
+}
+
+.section {
+  margin-bottom: 80px;
+}
+
+.section__title {
+  margin-top: 0;
+  margin-bottom: 80px;
+  font-size: 46px;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,KAAK,CAAC;EACF,qBAAqB,CAAA,yBAAC;EACtB,wBAAwB,CAAA,KAAC;EACzB,wBAAwB,CAAA,KAAC;EACzB,yBAAyB,CAAA,KAAC;EAC1B,qBAAqB,CAAA,OAAC;EACtB,wBAAwB,CAAA,OAAC;EACzB,uBAAuB,CAAA,OAAC;EAExB,uBAAuB,CAAA,QAAC;EACxB,cAAc,CAAA,QAAC;EACf,kBAAkB,CAAA,QAAC;EACnB,iBAAiB,CAAA,QAAC;EAClB,uBAAuB,CAAA,QAAC;EACxB,eAAe,CAAA,QAAC;CACnB;;AEfD,AAAA,IAAI;AACJ,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE;AACF,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;CACZ;;AACD,AAAA,EAAE,EAAE,EAAE,CAAC;EACH,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,IAAI;CACnB;;AACD,AAAA,GAAG,EAAE,OAAO,CAAC;EACT,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,IAAI;CACf;;AACD,AAAA,CAAC,CAAC;EACE,eAAe,EAAE,IAAI;CACxB;;AACD,AAAA,KAAK;AACL,MAAM;AACN,QAAQ;AACR,MAAM,CAAC;EACH,IAAI,EAAE,OAAO;CAChB;;AACD,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,KAAK;EACjB,eAAe,EAAE,MAAM;EAEvB,gBAAgB,EAAE,4BAA4B;EAC9C,WAAW,EAAE,0BAA0B;EACvC,cAAc,EAAE,0BAA0B;CAC7C;;ACpCD,AAAA,UAAU,CAAC;EACP,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;EACnB,KAAK,EAAE,IAAI;CACd;;AAED,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAC/B,AAAA,UAAU,CAAC;IACP,YAAY,EAAE,IAAI;IAClB,WAAW,EAAE,IAAI;IACjB,KAAK,EAAE,KAAK;GACf;;;AAGL,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAC/B,AAAA,UAAU,CAAC;IACP,KAAK,EAAE,KAAK;GACf;;;AAGL,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAChC,AAAA,UAAU,CAAC;IACP,KAAK,EAAE,MAAM;GAChB;;;ACvBL,AAAA,QAAQ,CAAC;EACL,aAAa,EAAE,IAAI;CACtB;;AACD,AAAA,eAAe,CAAC;EACZ,UAAU,EAAE,CAAC;EACb,aAAa,EAAE,IAAI;EACnB,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "main.scss",
+        "utils/_variables.scss",
+        "utils/_mixins.scss",
+        "base/_common.scss",
+        "base/_container.scss",
+        "base/_section.scss",
+        "layout/_header.scss",
+        "components/_logo.scss",
+        "components/_navigation.scss",
+        "components/_button.scss",
+        "layout/_hero.scss",
+        "layout/_advantages.scss",
+        "components/_counter.scss",
+        "layout/_problems.scss",
+        "layout/_how-we-do.scss",
+        "layout/_program.scss",
+        "layout/_benefits.scss",
+        "layout/_about.scss",
+        "layout/_guarantee.scss",
+        "layout/_reviews.scss",
+        "layout/_contacts.scss",
+        "layout/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
