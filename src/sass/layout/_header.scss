@@ -12,7 +12,18 @@
         background-color: transparent;
         border: none;
 }
- 
+    
+    .modal-menu {
+        position: fixed;
+            background-color:rgba(17, 21, 24, 0.9);
+            top: 0;
+            width: 100vw;
+            height: 100vh;
+            z-index: 10;
+            padding: 20px;
+    }
+
+    
  }
 
 
